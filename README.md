@@ -17,5 +17,4 @@ Feel free to explore the code, provide feedback, or even contribute! I look forw
 
 ---
 
-Feel free to adjust the content based on your progress or any additional features you want to highlight!
 
